@@ -19,10 +19,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Tijme Doorn
 
   #### Je startniveau:
-  Zwart
+  blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  surface plane
  
 </details>
 
@@ -36,15 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  https://futbol-11.com 
+  https://www.futbin.com 
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  rules + difficulty
-  <img src="readme-images/rules" width="375px" alt="Regels van het spel en de difficulty keuze>
+  Home
+  <img src="readme-images/home" width="375px" alt="homepagina met wegen naar alles">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  the game
-  <img src="readme-images/game" width="375px" alt="Het spelen van de game">
+  stats
+  <img src="readme-images/stats" width="375px" alt="statestieken van 1 speler">
  
 </details>
 

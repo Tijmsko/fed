@@ -40,7 +40,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home
-  <img src="readme-images/home" width="375px" alt="homepagina met wegen naar alles">
+  <img src="<img width="1420" alt="home" src="https://user-images.githubusercontent.com/112875181/190505641-f64f189a-a5f4-44cf-833f-397b5b1f5e0e.png">" width="375px" alt="homepagina met wegen naar alles">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   stats
@@ -91,7 +91,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/breakdownschets.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="![breakdownschets](https://user-images.githubusercontent.com/112875181/190505676-8255c08d-d9ef-4807-8529-86fecf3ba4cf.png) width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">

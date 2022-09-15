@@ -44,7 +44,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de tweede pagina (small screen):
   stats
-  <img src="readme-images/stats" width="375px" alt="statestieken van 1 speler">
+  <img src="file:///Users/tijmedoorn/Documents/School/Leerjaar%202/Blok%201%20web/FED/basiswebsite/readme-images/stats.png" width="375px" alt="statestieken van 1 speler">
  
 </details>
 

@@ -54,33 +54,45 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details>
   <summary>uitwerken na test in 1e werkgroep</summary>
-
+  
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-
+  handhandicap: Te doen 
+  Kleurenblindheid geel: goed
+  zicht: iets minder door kleine text
+  In het begin moet je heel vaak tabben tot je je focus te zien krijgt. 
+  Menu niet tabbaar
+  Bij het voorlezen van een spelerskaart word image 60 en image 9 gezegd.
+  
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
-
+  Links voorgegeven als image worden niet voorgelezen wat de link inhoud.
+  Bij het voorlezen van een spelerskaart word image 60 en image 9 gezegd.
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  zorgen dat de images duidelijke alt text hebben en sematische html.
 
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
-
+  In het begin moet je heel vaak tabben tot je je focus te zien krijgt. 
+  Menu niet tabbaar
+  Kopjes niet tabbaar
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  zorgen dat alles focust door sematische hmtl te schrijven
 
   #### Motoriek (shocks, elastiekjes)
   Hier korte omschrijving (met indien nodig afbeeldingen)
-
+  Eigenlijk niet echt problemen met de site.
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  Kleurenblindheid: goed
+  zicht: sommige dingen zijn iets minder goed te zien door kleine text
+  <img width="857" alt="Schermafbeelding 2022-10-04 om 14 25 23" src="https://user-images.githubusercontent.com/112875181/193818736-c76b0a15-bdb8-4b8d-a503-2df190ffac33.png">
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  Zorgen dat elke tekst minimaal 1em is.
 </details>
 
 
